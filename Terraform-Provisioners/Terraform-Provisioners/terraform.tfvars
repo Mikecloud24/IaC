@@ -1,0 +1,11 @@
+region                = "us-east-1"
+cidr_vpc              = "10.0.0.0/16"
+vpc_name              = "my-vpc"
+cidr_subnet           = "10.0.1.0/24"
+azone                 = "us-east-1a"
+sg_name               = "my-sg"
+key                   = ""
+instance_type         = "t2.micro"
+instance_name         = "My-Instance"
+subnet_name           = "my-subnet"
+instance_count        = 1
